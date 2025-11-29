@@ -1,30 +1,59 @@
-# Next.js Landing Page
+# NovaFlow - Automate Your Work
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+NovaFlow is a premium, high-performance landing page for a next-generation automation platform. Built with modern web technologies, it features a sleek design, interactive elements, and a responsive layout.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/soumyadipcodes19s-projects/v0-next-js-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/bMoZKPSgY2h)
+![NovaFlow Hero](public/hero-dashboard.png)
 
-## Overview
+## 🚀 Tech Stack
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [Radix UI](https://www.radix-ui.com/) & [Vercel v0](https://v0.dev/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Fonts**: [Geist](https://vercel.com/font)
 
-## Deployment
+## ✨ Features
 
-Your project is live at:
+- **Premium Aesthetic**: Glassmorphism effects, subtle gradients, and a refined color palette.
+- **Interactive Integrations**: A dynamic section visualizing data flow using animated beams (powered by Framer Motion).
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices.
+- **Performance**: Optimized images, fonts, and code splitting for fast load times.
+- **Modern Components**:
+  - **Hero**: Immersive introduction with a 3D-style dashboard visual.
+  - **Features**: Grid layout with hover effects and backdrop blur.
+  - **Pricing**: Clear, attractive pricing cards with highlighted popular plans.
+  - **Testimonials**: Social proof section with key metrics.
 
-**[https://vercel.com/soumyadipcodes19s-projects/v0-next-js-landing-page](https://vercel.com/soumyadipcodes19s-projects/v0-next-js-landing-page)**
+## 🛠️ Getting Started
 
-## Build your app
+First, install the dependencies:
 
-Continue building your app on:
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
 
-**[https://v0.app/chat/bMoZKPSgY2h](https://v0.app/chat/bMoZKPSgY2h)**
+Then, run the development server:
 
-## How It Works
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 🤝 Credits
+
+- Initial component scaffolding provided by **Vercel v0**.
+- Design inspiration from modern SaaS landing pages.
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
