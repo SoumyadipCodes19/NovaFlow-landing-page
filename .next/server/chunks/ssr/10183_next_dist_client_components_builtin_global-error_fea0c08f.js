@@ -1,0 +1,3 @@
+module.exports=[88602,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(68654);a.n(d("[project]/Downloads/NovaFlow/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},79480,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(68654);a.n(d("[project]/Downloads/NovaFlow/node_modules/next/dist/client/components/builtin/global-error.js"))},26796,a=>{"use strict";a.i(88602);var b=a.i(79480);a.n(b)}];
+
+//# sourceMappingURL=10183_next_dist_client_components_builtin_global-error_fea0c08f.js.map

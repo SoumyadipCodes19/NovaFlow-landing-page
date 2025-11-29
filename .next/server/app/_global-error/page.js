@@ -1,0 +1,10 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/10183_cfb62868._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__aa9779cb._.js")
+R.c("server/chunks/ssr/10183_next_dist_c0189122._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__034c3fbf._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__86522638._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__cf94b5b4._.js")
+R.c("server/chunks/ssr/Downloads_NovaFlow__next-internal_server_app__global-error_page_actions_67ca246f.js")
+R.m(77609)
+module.exports=R.m(77609).exports
